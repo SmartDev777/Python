@@ -25,3 +25,6 @@ python manage.py startapp appkanaam
 
 6- make urls.py file in every app
 
+7. add the app in setting.py 
+ 'home.apps.HomeConfig',
+ 
